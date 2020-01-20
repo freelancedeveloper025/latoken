@@ -1,7 +1,6 @@
 {
     "name": "shamimiceewu025/latoken",
     "description": "Latoken Exchange API vertion - 2 implement",
-    "type": "library",
     "authors": [
         {
             "name": "Forhad Shamim",
@@ -15,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Latoken": "lib/"
+            "Exchange": "lib/"
         }
     }
 }
