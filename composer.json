@@ -9,8 +9,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^5.3|^7.0"
-        "ext-curl": "*",
+        "php": "^5.3|^7.0",
+        "ext-curl": "*"
     },
     "autoload": {
         "psr-0": {
