@@ -9,12 +9,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "license": "MIT",
     "require": {
         "php": "^5.3|^7.0"
         "ext-curl": "*",
     },
     "autoload": {
-		"classmap": ["lib"]
-	}
+        "psr-0": {
+            "Latoken": "lib/"
+        }
+    }
 }
